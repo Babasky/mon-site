@@ -17,7 +17,7 @@ function Banner() {
               J'ai travaillé sur plusieurs projets web et mobile de la conception à la réalisation
               pour en savoir d'avantage cliquez sur l'onglet projets.
             </p>
-            <a className="btn" href="https://boureimamaiga.ml" target={'_blank'}>
+            <a className="btn" href="https://boureimamaiga.ml">
               A propos de moi
             </a>
           </div>
